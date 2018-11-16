@@ -1,1 +1,1 @@
-# MedicalImageDetection
+# Medical Image Detection
